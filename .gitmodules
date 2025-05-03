@@ -1,0 +1,3 @@
+[submodule "vim/pack/git-plugins/start/vim-c-cpp-modern"]
+	path = vim/pack/git-plugins/start/vim-c-cpp-modern
+	url = https://github.com/bfrg/vim-c-cpp-modern

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/dev/Dev/vera/src'
+let g:netrw_dirhist_8='/home/dev/Dev/vera'
+let g:netrw_dirhist_7='/home/dev/Dev'
+let g:netrw_dirhist_6='/home/dev/Dev/berserk_engine'
+let g:netrw_dirhist_5='/home/dev/Dev/berserk_engine/src'
+let g:netrw_dirhist_4='/home/dev/Dev/berserk_engine'
+let g:netrw_dirhist_3='/home/dev/Dev/berserk_engine/platform_dependent'
+let g:netrw_dirhist_2='/home/dev/Dev/berserk_engine/platform_dependent/linux'
+let g:netrw_dirhist_1='/home/dev/Dev/berserk_engine/platform_dependent/linux/include'
+let g:netrw_dirhist_0='/home/dev/Dev/berserk_engine/platform_dependent/linux'
