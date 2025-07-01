@@ -1,5 +1,6 @@
 syntax on
 set number
+set relativenumber
 set expandtab
 set cursorline
 set shiftwidth=4
@@ -10,6 +11,9 @@ set smartcase
 set hlsearch
 set showcmd
 colorscheme anderson
+
+" Toggle relative line numbers with Ctrl-L + Ctrl-L
+nmap <C-L><C-L> :set invrelativenumber<CR>
 
 " STATUS LINE
 
