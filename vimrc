@@ -14,6 +14,8 @@ colorscheme anderson
 
 " Toggle relative line numbers with Ctrl-L + Ctrl-L
 nmap <C-L><C-L> :set invrelativenumber<CR>
+" Clear seach highlight with Ctrl-c
+nmap <C-c> :noh <CR>
 
 " STATUS LINE
 
